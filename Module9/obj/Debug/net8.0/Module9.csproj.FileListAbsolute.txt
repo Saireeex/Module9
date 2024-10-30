@@ -1,0 +1,14 @@
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\bin\Debug\net8.0\Module9.exe
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\bin\Debug\net8.0\Module9.deps.json
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\bin\Debug\net8.0\Module9.runtimeconfig.json
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\bin\Debug\net8.0\Module9.dll
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\bin\Debug\net8.0\Module9.pdb
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.AssemblyInfoInputs.cache
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.AssemblyInfo.cs
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.csproj.CoreCompileInputs.cache
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.dll
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\refint\Module9.dll
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.pdb
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\Module9.genruntimeconfig.cache
+D:\Лабораторные 3 семестр\Практика\Модуль9\Module9\obj\Debug\net8.0\ref\Module9.dll
